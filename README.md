@@ -5,7 +5,9 @@
 <p>Welcome to my page! </br> I'm Bishawjit Kumar Dey, Fullstack MERN developer from <img src="[https://www.flaticon.com/free-icon/bangladesh_10452427?term=bangladesh+flag&page=1&position=12&origin=search&related_id=10452427]" width="13"/> <b>Sylhet, Bangladesh</b>, currently living in  <b>Montreal, Quebec, Canada</b>. </p>
 <h3>Things I code with</h3>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me</h1>
+<h1> About Me</h1>
+
+<h2>I love programming and consider it as an amazing field of fine art to pursue. I worked for a state owned Bank for more than 7 years and have extensive experience in financial reporting, credit management, general banking services and teller services.  </h2>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
