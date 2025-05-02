@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Bishawjit Kumar Dey, Fullstack MERN developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Montreal, Quebec, Canada</b>. </p>
+<p>Welcome to my page! </br> I'm Bishawjit Kumar Dey, Fullstack MERN developer from <img src="[https://www.flaticon.com/free-icon/bangladesh_10452427?term=bangladesh+flag&page=1&position=12&origin=search&related_id=10452427]" width="13"/> <b>Sylhet, Bangladesh</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Montreal, Quebec, Canada</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
