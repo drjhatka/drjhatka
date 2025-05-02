@@ -7,7 +7,7 @@
 
 <h1> About Me</h1>
 
-<h3>I love programming and consider it as an amazing field of fine art to pursue. Working for a state owned Bank for more than 7 years, I have gathered extensive experience in financial reporting, credit management, general banking services and teller services. Having completed level 1 Complete React Development course and level 2 Next Level MERN Developer Course from Programming Hero and having built several react and MERN based application, I intend to gain industry experience through a developer career and looking forward to  explore the amazing world of modern day Web Applications</h3>
+<h5>I love programming and consider it as an amazing field of fine art to pursue. Working for a state owned Bank for more than 7 years, I have gathered extensive experience in financial reporting, credit management, general banking services and teller services. Having completed level 1 Complete React Development course and level 2 Next Level MERN Developer Course from Programming Hero and having built several react and MERN based application, I intend to gain industry experience through a developer career and looking forward to  explore the amazing world of modern day Web Applications</h5>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
